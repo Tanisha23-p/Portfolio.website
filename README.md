@@ -31,3 +31,4 @@ Files of interest:
 - `public/resume.pdf` — resume file accessible at `/resume.pdf`
 
 If you want a pure HTML/CSS version without React, say so and I'll export a single self-contained HTML file.
+https://tanishaportfoli.netlify.app/
